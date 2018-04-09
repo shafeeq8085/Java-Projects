@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Technopark>
+  <Company id="ACIS">
+    <Department id="ITT">
+      <Team id="ADAG">
+        <Employee id="1">
+          <Name>Shafeeque</Name>
+          <Age>31</Age>
+        </Employee>
+        <Employee id="2">
+          <Name>Swathy</Name>
+          <Age>26</Age>
+        </Employee>
+      </Team>
+      <Team id="FFIC">
+        <Employee id="1">
+          <Name>Pappan</Name>
+          <Age>35</Age>
+        </Employee>
+        <Employee id="2">
+          <Name>Ajith</Name>
+          <Age>30</Age>
+        </Employee>
+      </Team>
+    </Department>
+    <Department id="ADMUK">
+      <Team id="DIGITAL">
+        <Employee id="1">
+          <Name>Sabari</Name>
+          <Age>30</Age>
+        </Employee>
+        <Employee id="2">
+          <Name>Nishanth</Name>
+          <Age>26</Age>
+        </Employee>
+      </Team>
+      <Team id="ASUR">
+        <Employee id="1">
+          <Name>Saju</Name>
+          <Age>27</Age>
+        </Employee>
+        <Employee id="2">
+          <Name>Suresh</Name>
+          <Age>36</Age>
+        </Employee>
+      </Team>
+    </Department>
+  </Company>
+</Technopark>

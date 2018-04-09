@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="C:/workspace/APKV_KonvertiererAPP/lib/commons-logging-1.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/APKV_KonvertiererAPP/lib/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/APKV_KonvertiererAPP/lib/slf4j-api-1.5.10.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/APKV_KonvertiererAPP/lib/slf4j-log4j12-1.5.10.jar"/>
+	<classpathentry kind="lib" path="C:/AZ_DATEN/Personal/Java Jar files/dom4j-1.6.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/APKV_KonvertiererAPP/lib/db2jcc.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/APKV_KonvertiererAPP/lib/db2jcc_javax.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/APKV_KonvertiererAPP/lib/db2jcc_license_cisuz.jar"/>
+	<classpathentry kind="lib" path="C:/workspace/APKV_KonvertiererAPP/lib/db2jcc_license_cu.jar"/>
+	<classpathentry kind="lib" path="C:/AZ_DATEN/Personal/Java Jar files/jdom.jar"/>
+	<classpathentry kind="lib" path="C:/AZ_DATEN/Personal/Java Jar files/saxon8.jar"/>
+	<classpathentry kind="lib" path="C:/AZ_DATEN/Personal/Java Jar files/saxon8-jdom.jar"/>
+	<classpathentry kind="lib" path="C:/AZ_DATEN/Personal/Java Jar files/jdom-2.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/AZ_DATEN/Personal/Java Jar files/jdom-2.0.6-contrib.jar"/>
+	<classpathentry kind="lib" path="C:/AZ_DATEN/Personal/Java Jar files/jdom-2.0.6-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/AZ_DATEN/Personal/Java Jar files/jdom-2.0.6-junit.jar"/>
+	<classpathentry kind="lib" path="C:/AZ_DATEN/Personal/Java Jar files/jdom-2.0.6-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

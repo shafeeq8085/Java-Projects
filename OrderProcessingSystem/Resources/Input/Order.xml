@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Orders>
+  <Order Customer="Amar">
+    <Contact Mobile="9998856545">
+      <Details>
+        <Item>Pen</Item>
+        <Count>6</Count>
+      </Details>
+    </Contact>
+  </Order>
+  <Order Customer="Shafeeque">
+    <Contact Mobile="9998856545">
+      <Details>
+        <Item>Pen</Item>
+        <Count>6</Count>
+      </Details>
+    </Contact>
+  </Order>
+  <Order Customer="Shafeeque">
+    <Contact Mobile="9998856545">
+      <Details>
+        <Item>Pencil</Item>
+        <Count>12</Count>
+      </Details>
+    </Contact>
+  </Order>
+  <Order Customer="Suresh">
+    <Contact Mobile="9998856545">
+      <Details>
+        <Item>Pencil</Item>
+        <Count>10</Count>
+      </Details>
+    </Contact>
+  </Order>
+  <Order Customer="Ramesh">
+    <Contact Mobile="9998856545">
+      <Details>
+        <Item>Cutter</Item>
+        <Count>1</Count>
+      </Details>
+    </Contact>
+  </Order>
+</Orders>

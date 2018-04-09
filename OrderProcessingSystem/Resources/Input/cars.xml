@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Cars>
+  <Supercars Company="Ferrari">
+    <Carname Type="Formula one">ferrari 101</Carname>
+    <Carname Type="Sports">Ferrari 202</Carname>
+  </Supercars>
+</Cars>

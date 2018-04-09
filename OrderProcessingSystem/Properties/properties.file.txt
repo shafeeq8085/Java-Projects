@@ -1,0 +1,1 @@
+config.filename=${APP_HOME}/config/test.config.xml

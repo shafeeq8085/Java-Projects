@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<order_items> 
+	<item> 
+		<name>Pen</name> 
+		<quantity>5</quantity> 
+	</item>
+	<item> 
+		<name>Book</name> 
+		<quantity>6</quantity> 
+	</item>
+	<item> 
+		<name>Paper</name> 
+		<quantity>8</quantity> 
+	</item>
+	<item> 
+		<name>Pen</name> 
+		<quantity>10</quantity> 
+	</item>
+</order_items>

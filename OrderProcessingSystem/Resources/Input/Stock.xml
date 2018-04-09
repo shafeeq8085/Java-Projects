@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Stocks>
+  <Stock>
+    <Item>Paper</Item>
+    <Count>10</Count>
+  </Stock>
+  <Stock>
+    <Item>Cutter</Item>
+    <Count>9</Count>
+  </Stock>
+  <Stock>
+    <Item>Pen</Item>
+    <Count>4</Count>
+  </Stock>
+  <Stock>
+    <Item>Notepad</Item>
+    <Count>10</Count>
+  </Stock>
+  <Stock>
+    <Item>Pencil</Item>
+    <Count>0</Count>
+  </Stock>
+</Stocks>
